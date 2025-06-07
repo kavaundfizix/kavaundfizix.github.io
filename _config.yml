@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-hacker
 title: "The Coffee and The Physics"
 author: "milda :)"
 description: "This is a place for me to share my thoughts about the world through the lens of a curious physics student who is interested in social issues as well as everything science- and math-related. I hope you enjoy exploring this page :)" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
@@ -19,7 +19,6 @@ pinterest_username: kunigundosarbata
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "minima"
 
 rss: rss
 
