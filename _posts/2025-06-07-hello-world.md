@@ -1,4 +1,4 @@
-## Hello, World
+## Hello, World!
 
 I think this is a "felt cute, might delete later" kind of post. I do not have a clear outline of what I want to say, which is very atypical of me. Let this be my debut, my "first line of code" in a "new 'language'". 
 
@@ -13,8 +13,3 @@ Different types of journaling and note-taking can also be used for personal refl
 Being inspired is not a bad thing either, however. We always first learn by watching and then by doing but I think one's ultimate goal with writing should be to develop their personal voice. In this journey, it is particularly important to not lose yourself and be scared of being "cringe". Don't kill the part of you that's cringe, kill the part that cringes. Just start writing, I am almost 100% sure it will make an impact in your life.
 
 So this is my "helloworld". I think it will suffice for now and I am hoping to write more soon as the summer break is approaching!
- ```tsql
- SELECT *
- FROM sys.tables
- WHERE [name] = 'SomeTable'
- ```
