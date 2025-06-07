@@ -21,7 +21,7 @@ pinterest_username: kunigundosarbata
 #########################################################################################
 theme: "minima"
 body: {
-  background-color:  #668dab;
+  background-color: "rgb(102, 141, 171)" ;
 }
 
 rss: rss
