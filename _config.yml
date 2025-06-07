@@ -20,7 +20,7 @@ pinterest_username: kunigundosarbata
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 theme: "minima"
-body {
+body: {
   background-color:  #668dab;
 }
 
